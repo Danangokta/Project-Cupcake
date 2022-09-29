@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="order_cupcakes">Pesan Cupcake</string>
+    <string name="one_cupcake">Satu Cupcake</string>
+    <string name="six_cupcakes">Lima Cupcake</string>
+    <string name="twelve_cupcakes">Sepuluh Cupcake</string>
+    <string name="choose_flavor">Pilih Raasa</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="special_flavor">Spesial Rasa</string>
+    <string name="cancel">Kembali</string>
+    <string name="next">Lanjut</string>
+    <string name="choose_pickup_date">Pilih Tanggal Pengambilan</string>
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="send">Kirim Pesanan ke Aplikasi Lain</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Rasa</string>
+    <string name="pickup_date">Tanggal pengambilan</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Pesanan Cupcake Baru</string>
+    <string name="order_details">Quantity: %1$s cupcake \n Rasa: %2$s \n Tanggal Pengambilan: %3$s \n
+        Total: %4$s \n\n Terimakasih!</string>
+</resources>
